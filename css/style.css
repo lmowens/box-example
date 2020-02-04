@@ -1,0 +1,37 @@
+body { 
+  
+}
+
+#clearBox{
+  clear: right;
+}
+#containerBox {
+  position: fixed;
+  top: 0px;
+  left: 10%;
+  
+  
+  
+  height: 300px;
+  width: 40%;
+  background-color: #00C853;
+  
+}
+#contentBox{
+  left: 50%;
+  top: 10%;
+ 
+  border: solid 1px blue;
+  margin: 37px;
+  padding: 14px;
+  width: 200px;
+}
+
+.floatBox {
+  height: 50px;
+  width: 50px;
+  background-color: tomato;
+  float: left;
+  padding: 10px;
+  margin-right: 4px;
+}
